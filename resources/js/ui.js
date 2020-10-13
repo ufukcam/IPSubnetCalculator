@@ -27,7 +27,7 @@ function( $, IpSubnetCalculator )
 				else
 				{
 					var i;
-					var msg = '<h2>Result</h2>' +
+					var msg = '<h2>Sonuçlar</h2>' +
 								'<table>' +
 								'<thead><tr><td>IP</td><td>Prefix</td><td>Subnet Mask</td></tr></thead>' +
 								'<tfoot><tr><td>IP</td><td>Prefix</td><td>Subnet Mask</td></tr></tfoot>';
